@@ -1,0 +1,13 @@
+div {
+    color: blue;
+    border: 10px solid tomato;
+    margin: 10px;
+    padding: 10px 20px 15px;
+}
+
+#amar {
+    text-decoration: overline;
+    background-color: aqua;
+    color: chocolate;
+    font-family: 'Times New Roman', Times, serif;
+}
